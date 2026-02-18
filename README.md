@@ -1,6 +1,8 @@
-## Task Management App (React)
+# Task Manager
 
-A simple task management app built with React, Typescript and Python.
+A full-stack task management application built with:
+- **Frontend**: React + TypeScript (Vite)
+- **Backend**: Python + FastAPI
 
 ## Features:
 - Add new tasks
